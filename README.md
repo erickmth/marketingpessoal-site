@@ -1,6 +1,6 @@
 # 💼 Marketing Pessoal – Site de Apresentação
 
-Página criada como parte de uma apresentação sobre marketing pessoal, destacando habilidades, trajetória e contato.
+Página criada como parte de uma apresentação sobre marketing pessoal, destacando habilidades, trajetória e contato. (2024)
 
 ## 📌 Sobre o Projeto
 Apresenta seções como especialidades, sobre mim, projetos e formas de contato de maneira clara e objetiva.
